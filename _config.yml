@@ -1,11 +1,10 @@
 title: Hanting Ge # your name (or website title) here
 logo: "/images/linkedin_headshot.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks) 
-  <br>I am a ML/NLP Engineer<br> 
-  <br><b>Python</b><br>
-  <br><b>Java</b><br>
+  <br>ML/NLP Engineer<br> 
+  <br><b>Python</b>, <b>Java</b><br>
 
-  <form action="linkedin.com/in/hanting-ge">
+  <form action="https://www.linkedin.com/in/hanting-ge">
         <input type="submit" value="LinkedIn"/>
   </form> 
   
