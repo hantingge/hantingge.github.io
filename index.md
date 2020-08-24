@@ -4,10 +4,9 @@
 
 ### Engineering Projects 
 ---
-[HoShr](https://hoshr-auto-realtor.herokuapp.com/)
-<br>
-[website](https://hoshr-auto-realtor.herokuapp.com/)
-[repo](https://github.com/hantingge/HoShr)
+#### HoShr
+[demo](https://hoshr-auto-realtor.herokuapp.com/)
+[View Project On Github](https://github.com/hantingge/HoShr)
 <img src="images/hoshr-logo.png?raw=true"/>
 
 ---
