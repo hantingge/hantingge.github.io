@@ -3,6 +3,9 @@
 ---
 
 ### Engineering Projects 
+---
+[HoShr](https://github.com/hantingge/HoShr)
+<img src="images/hoshr-logo.png?raw=true"/>
 
 [Brandeis Campus Map](https://github.com/hantingge/brandeis-map)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
