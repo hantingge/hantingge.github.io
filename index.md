@@ -4,29 +4,23 @@
 
 ### Engineering Projects 
 ---
-[HoShr](https://github.com/hantingge/HoShr)
+[HoShr]
+[website](https://hoshr-auto-realtor.herokuapp.com/)
+[repo](https://github.com/hantingge/HoShr)
 <img src="images/hoshr-logo.png?raw=true"/>
 
+---
+
 [Brandeis Campus Map](https://github.com/hantingge/brandeis-map)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/brandeis_campus_map.jpg?raw=true"/>
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Data Science Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Kaggle: Great Energy Predictor](https://github.com/hantingge/ashrae-great-energy-predictor)
+- [Bank Marketing](https://github.com/hantingge/bank-marketing-gradient-boosting)
 
 ---
 
@@ -34,5 +28,3 @@
 
 
 ---
-<!--p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p-->
-<!-- Remove above link if you don't want to attibute -->
