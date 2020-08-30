@@ -6,7 +6,7 @@
 ---
 #### HoShr
 [Webapp](https://hoshr-auto-realtor.herokuapp.com/)
-<br>
+<br/>
 [Github Repo](https://github.com/hantingge/HoShr)
 <img src="images/hoshr-logo.png?raw=true"/>
 
