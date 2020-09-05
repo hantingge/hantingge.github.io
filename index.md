@@ -17,7 +17,7 @@
 
 <img src="images/brandeis_campus_map.jpg?raw=true"/>
 
-[Source Code](https://github.com/hantingge/brandeis-map)
+<button class="button-save large">[Source Code](https://github.com/hantingge/brandeis-map)</button>
 
 ---
 
