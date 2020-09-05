@@ -1,5 +1,7 @@
 title: Hanting Ge # your name (or website title) here
 logo: "/images/linkedin_headshot.jpeg?raw=true" # your photo (or logo) here
+url: "http://hantingge.github.io"
+markdown: kramdown
 description: > # your text below (remove <br> elements if you don't need line breaks) 
   <br>ML/NLP Engineer<br> 
   <br><b>Python</b>, <b>Java</b><br>
