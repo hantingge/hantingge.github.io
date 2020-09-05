@@ -8,8 +8,8 @@
 
 <img src="images/hoshr-logo.png?raw=true"/>
 
-[Website](https://hoshr-auto-realtor.herokuapp.com/){: .btn .btn-purple } |
-[Source Code](https://github.com/hantingge/HoShr){: .btn .btn-green }
+<button type="button" name="button" class="btn">[Website](https://hoshr-auto-realtor.herokuapp.com/)</button> |
+<button type="button" name="button" class="btn">[Source Code](https://github.com/hantingge/HoShr)</button>
 
 ---
 
