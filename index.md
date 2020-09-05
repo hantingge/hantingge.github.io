@@ -8,15 +8,16 @@
 
 <img src="images/hoshr-logo.png?raw=true"/>
 
-[Webapp](https://hoshr-auto-realtor.herokuapp.com/) |
-[Github Repo](https://github.com/hantingge/HoShr)
+[Website](https://hoshr-auto-realtor.herokuapp.com/) |
+[Source Code](https://github.com/hantingge/HoShr)
+
 ---
 
 #### Brandeis Campus Navigation
 
 <img src="images/brandeis_campus_map.jpg?raw=true"/>
 
-[Brandeis Campus Navigation](https://github.com/hantingge/brandeis-map)
+[Source Code](https://github.com/hantingge/brandeis-map)
 
 ---
 
